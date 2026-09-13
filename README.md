@@ -9,7 +9,6 @@ Dev Stack is a beginner-friendly React application where users can explore popul
 - Vite
 - Tailwind CSS
 - React Toastify
-- Lucide React
 - JSON
 
 ## Main Features
