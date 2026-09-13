@@ -40,21 +40,3 @@ Conditional rendering means showing different UI based on a condition. In this p
 
 ### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 The parent passes data and functions to the child using props. The child can call a function received through props to send an action or value back to the parent.
-
-## Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-## Suggested Git Commits
-
-1. `init: create vite react project`
-2. `feat: add responsive navbar and logo`
-3. `feat: build hero section`
-4. `data: add technology json file`
-5. `feat: create technology cards`
-6. `feat: add stack selection and remove functions`
-7. `feat: add toast notifications and loading state`
-8. `style: complete responsive footer and final polish`
